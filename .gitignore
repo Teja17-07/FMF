@@ -18,7 +18,7 @@
 *.snm
 *.synctex.gz
 *.synctex(busy)
-
+!slika.pdf
 # Arhivi, iz katerih smo datoteke že odpakirali
 *.zip
 
